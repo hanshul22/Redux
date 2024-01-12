@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(187, 238, 104);
+  color: black;
+}
+
+.container{
+  text-align: center;
+  margin-top: 10%;
+}
+
+h1{
+  font-size: 110px;
+}
+
+button{
+  padding: 25px;
+  margin: 10px;
+  width: 7%;
+  height: 7%;
+  font-size: 20px;
+  font-family: cursive;
+  border: none;
+  border-radius: 20px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
